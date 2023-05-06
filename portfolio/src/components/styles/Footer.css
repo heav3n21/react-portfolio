@@ -1,0 +1,10 @@
+footer{
+    
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.466);
+    width: 100%;
+    bottom: 0px;
+    height: 70px;
+    text-align: center;
+color: aliceblue;
+}

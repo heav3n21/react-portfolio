@@ -1,0 +1,31 @@
+.AboutMe{
+    background-color: rgb(177, 56, 56);
+    width: 90%;
+    
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-inline: auto;
+    /* justify-content: flex-end; */
+    padding: 10px;
+    margin-top:60px;
+box-shadow: 1px 1px 1rem black;    
+border-radius: 9px;
+
+}
+.matt{
+   
+    grid-column: span 2;
+    flex-wrap: wrap;
+    white-space: wrap;
+}
+    
+
+.AboutMe img{
+   overflow: hidden;
+    max-width: 100%;
+    max-height: 500px;
+    display: block;
+    border-radius: 20%;
+    padding: 10px;
+}

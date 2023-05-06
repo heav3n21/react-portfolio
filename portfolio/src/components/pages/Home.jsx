@@ -6,7 +6,7 @@ export default function Home() {
         <div>
             <section className="AboutMe">
               
-                <div>
+                <div clasName="border border-primary">
                 <img src={matthew}></img>
                 </div >
                 

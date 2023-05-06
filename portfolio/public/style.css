@@ -6,26 +6,28 @@
 
 body{
     margin: 0;
-    background-color: var(--color1);
+    background-color: var(--color1) !important;
 }
 .header{
     background-color: var(--color2);
     padding: 30px;
     text-align: center;
     display: flex;
-    justify-content: flex-end;
-    padding: 0px 20px;
+    justify-content: center;
     flex-wrap: wrap;
     list-style: none;
+    padding: 30px;
    
 }
 
  a {
-    text-align: center;
+    
     padding: 30px;
-    font-weight: 900;
+    margin-left: 14px;
+    font-weight: bolder !important;
+    font-size: larger !important;
     cursor: pointer;
-    color:rgb(248, 248, 248);
+    color:rgb(248, 248, 248) !important;
     text-decoration: none;
     list-style: none;
     

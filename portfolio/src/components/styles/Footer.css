@@ -1,21 +1,25 @@
 footer {
 
-    position: block;
-    /* display: block; */
+    position: fixed;
+    /* display: ; */
     background-color: rgba(0, 0, 0, 0.466);
-    width: 100%;
-    bottom: 300px;
-    /* height: 70px; */
+    bottom: 0;
+    height: 80px;
     text-align: center;
     color: aliceblue;
-    margin-top: 90px;
-    margin-bottom: auto;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top:10px;
+padding-bottom:10px;
+    
+    
 }
 
 footer img {
  cursor: pointer;
     height: 70px;
-    padding: 20px;
-   /* box-shadow: 3px 4px 2rem black; */
+    padding: 10px;
+  
    border-radius: 40px;
 }

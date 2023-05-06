@@ -18,7 +18,7 @@ export default function Footer(){
 };
 const handleGithubClick = () => {
   
-  window.location.href = "https://github.com/heav3n21."; // Replace with the actual LinkedIn URL
+  window.location.href = "https://github.com/heav3n21"; // Replace with the actual LinkedIn URL
 
 };
     return(

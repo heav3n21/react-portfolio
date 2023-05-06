@@ -6,7 +6,6 @@
     text-align: center;
     grid-template-columns: 1fr 1fr 1fr;
     margin-inline: auto;
-    /* justify-content: flex-end; */
     padding: 10px;
     margin-top:60px;
 box-shadow: 1px 1px 1rem black;    

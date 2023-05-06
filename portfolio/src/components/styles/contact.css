@@ -1,0 +1,15 @@
+.Contact{
+    background-color: rgb(177, 56, 56);
+    width: 90%;
+    height: 400px;
+    display: grid;
+    text-align: center;
+  align-content: center;
+  color: aliceblue;
+    margin-inline: auto;
+    padding: 10px;
+    margin-top:60px;
+box-shadow: 1px 1px  0.5rem rgb(54, 7, 7);    
+border-radius: 9px;
+
+}

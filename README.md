@@ -11,7 +11,7 @@ The front page displays an image that that is only a holder to where my img woul
 first img in projects is larger then the rest. I do not have any great websites to link so I placed a github img glow img on the header . When clicked will direct you to my github. 
 ### I am presented with a responsive layout that adapts to my viewport
 --
-yes including flexbox.
+using display grid and flex
 
 
 
